@@ -12,7 +12,7 @@ boolean copiaEnExamen = true;
 
 do{
 	
-	if (i>5)
+	if (i>20)
 	{
 		System.out.println("tu nota es " + nota	);
 		
@@ -20,6 +20,8 @@ do{
 		
 	}
 	i++;
+	
+	System.out.println("buena onda"	);
 }while(copiaEnExamen);
 	}
 
